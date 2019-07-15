@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  background-color: moccasin
+
+
+
+
+  }
+
+  @media all and (max-width: 900px) {
+
+  }
+
+  @media all and (max-width: 700px) {
+
+  }
+
+
+
+
+h1 {
+  font-family: 'Schoolbell', cursive;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  text-shadow: 2px 2px white;
+  font-size: 50px;
+}
+
+img {
+justify-content: center;
+width: 50px;
+padding: 25px;
+display:inline-block;
+
+}
+
+/* .class:hover {
+  background-image: url ("/assets/blank/132222-colors-emotions-assets/png/sad-5.png") */
+
+
+}
+#blank {
+
+
+}
+
+first{
+
+}
